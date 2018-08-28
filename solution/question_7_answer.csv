@@ -1,0 +1,193 @@
+member_id,studio_key,class_tag,canceled,class_time_at,checked_in_at,viewed_at,reserved_at,studio_address_city,studio_address_state,studio_address_zip,level
+1,power-yoga,yoga,f,"2018-01-03 12:00:00","2018-01-03 11:57:00","2018-01-01 16:03:00","2018-01-01 16:04:00","Saint Petersburg",FL,33702,NULL
+9,third-ave-pilates,pilates,f,"2018-01-10 08:00:00","2018-01-10 07:54:00","2018-01-02 18:44:00","2018-01-02 18:45:00",Providence,RI,02904,NULL
+12,crossfit-control-jacksonville-beach,crossfit,t,"2018-01-10 17:30:00",NULL,"2018-01-02 10:22:00","2018-01-03 07:12:00","Saint Petersburg",FL,33702,NULL
+3,hive-athletics,strength,f,"2018-01-04 10:30:00","2018-01-04 10:31:00","2018-01-02 18:31:00","2018-01-03 08:22:00",Macungie,PA,18062,NULL
+5,true-grit-fitness,endurance,f,"2018-01-08 13:30:00",NULL,"2018-01-02 13:30:00","2018-01-03 13:30:00",Smithtown,NY,11787,NULL
+6,flushing-crossfit,crossfit,t,"2018-01-09 14:00:00",NULL,"2018-01-03 19:00:00","2018-01-03 20:15:00",Flushing,NY,11354,NULL
+32,true-grit-fitness,endurance,f,"2018-01-13 08:45:00","2018-01-13 08:46:00","2018-01-05 21:20:00","2018-01-05 21:21:00",Smithtown,NY,11787,NULL
+12,prana-yoga,yoga,f,"2018-01-12 11:00:00",NULL,"2018-01-04 22:45:00","2018-01-05 23:06:00",Norristown,PA,19401,NULL
+27,prana-yoga,yoga,f,"2018-01-12 12:00:00","2018-01-12 11:57:00","2018-01-06 16:03:00","2018-01-06 16:04:00",Norristown,PA,19401,NULL
+5,third-ave-pilates,pilates,t,"2018-01-09 14:00:00",NULL,"2018-01-05 19:00:00","2018-01-06 20:15:00",Providence,RI,02904,NULL
+55,hive-athletics,strength,f,"2018-01-15 08:45:00","2018-01-15 08:46:00","2018-01-03 21:20:00","2018-01-07 21:21:00",Macungie,PA,18062,NULL
+3,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-09 09:30:00","2018-01-09 09:27:00","2018-01-07 21:52:00","2018-01-07 21:56:00","Saint Petersburg",FL,33702,NULL
+4,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-09 09:30:00","2018-01-09 09:27:00","2018-01-07 21:52:00","2018-01-07 21:56:00","Saint Petersburg",FL,33702,NULL
+18,power-yoga,yoga,f,"2018-01-12 11:00:00",NULL,"2018-01-05 22:45:00","2018-01-07 23:06:00","Saint Petersburg",FL,33702,NULL
+16,true-grit-fitness,endurance,f,"2018-01-14 10:30:00","2018-01-14 10:31:00","2018-01-07 18:31:00","2018-01-08 08:22:00",Smithtown,NY,11787,NULL
+3,hive-athletics,strength,t,"2018-01-10 17:30:00",NULL,"2018-01-08 10:22:00","2018-01-09 07:12:00",Macungie,PA,18062,NULL
+55,hive-athletics,strength,f,"2018-01-15 13:30:00",NULL,"2018-01-09 13:30:00","2018-01-09 13:30:00",Macungie,PA,18062,NULL
+1,power-yoga,yoga,f,"2018-01-14 08:00:00","2018-01-14 07:54:00","2018-01-07 18:44:00","2018-01-09 18:45:00","Saint Petersburg",FL,33702,NULL
+19,flushing-crossfit,crossfit,f,"2018-01-15 14:00:00","2018-01-15 14:00:00","2018-01-10 19:00:00","2018-01-10 20:15:00",Flushing,NY,11354,NULL
+4,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-15 08:45:00","2018-01-15 08:46:00","2018-01-12 21:20:00","2018-01-12 21:21:00","Saint Petersburg",FL,33702,NULL
+6,prana-yoga,yoga,f,"2018-01-16 09:30:00","2018-01-16 09:27:00","2018-01-12 21:56:00","2018-01-13 21:56:00",Norristown,PA,19401,NULL
+36,hive-athletics,strength,f,"2018-01-16 11:00:00",NULL,"2018-01-14 22:45:00","2018-01-14 23:06:00",Macungie,PA,18062,NULL
+1,power-yoga,yoga,f,"2018-01-17 14:00:00","2018-01-17 14:00:00","2018-01-15 19:00:00","2018-01-16 20:15:00","Saint Petersburg",FL,33702,NULL
+43,hive-athletics,strength,f,"2018-01-18 08:45:00","2018-01-18 08:46:00","2018-01-16 21:20:00","2018-01-16 21:21:00",Macungie,PA,18062,NULL
+9,prana-yoga,yoga,f,"2018-01-20 08:45:00","2018-01-20 08:46:00","2018-01-19 21:20:00","2018-01-19 21:21:00",Norristown,PA,19401,NULL
+17,hive-athletics,strength,f,"2018-01-21 09:30:00","2018-01-21 09:27:00","2018-01-19 21:56:00","2018-01-19 21:56:00",Macungie,PA,18062,NULL
+12,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-20 11:00:00",NULL,"2018-01-19 22:45:00","2018-01-19 23:06:00","Saint Petersburg",FL,33702,NULL
+51,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-21 14:00:00","2018-01-21 14:00:00","2018-01-19 19:00:00","2018-01-20 20:15:00","Saint Petersburg",FL,33702,NULL
+36,third-ave-pilates,pilates,f,"2018-01-22 11:00:00",NULL,"2018-01-20 22:45:00","2018-01-20 23:06:00",Providence,RI,02904,NULL
+6,power-yoga,yoga,f,"2018-01-23 08:45:00","2018-01-23 08:46:00","2018-01-21 21:20:00","2018-01-21 21:21:00","Saint Petersburg",FL,33702,NULL
+15,crossfit-control-jacksonville-beach,crossfit,t,"2018-01-23 14:00:00",NULL,"2018-01-21 19:00:00","2018-01-22 20:15:00","Saint Petersburg",FL,33702,NULL
+12,power-yoga,yoga,f,"2018-01-23 09:30:00","2018-01-23 09:27:00","2018-01-22 20:15:00","2018-01-22 21:56:00","Saint Petersburg",FL,33702,NULL
+25,hive-athletics,strength,f,"2018-01-25 12:00:00","2018-01-25 11:57:00","2018-01-24 16:03:00","2018-01-24 16:04:00",Macungie,PA,18062,NULL
+3,hive-athletics,strength,f,"2018-01-27 08:00:00","2018-01-27 07:54:00","2018-01-24 18:44:00","2018-01-24 18:45:00",Macungie,PA,18062,NULL
+12,crossfit-control-jacksonville-beach,crossfit,t,"2018-01-26 17:30:00",NULL,"2018-01-24 10:22:00","2018-01-25 07:12:00","Saint Petersburg",FL,33702,NULL
+43,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-25 10:30:00","2018-01-25 10:31:00","2018-01-24 18:31:00","2018-01-25 08:22:00","Saint Petersburg",FL,33702,NULL
+27,prana-yoga,yoga,f,"2018-01-26 12:00:00","2018-01-26 11:57:00","2018-01-25 16:03:00","2018-01-25 16:04:00",Norristown,PA,19401,NULL
+1,prana-yoga,yoga,f,"2018-01-29 10:30:00","2018-01-29 10:31:00","2018-01-25 18:31:00","2018-01-26 08:22:00",Norristown,PA,19401,NULL
+17,prana-yoga,yoga,t,"2018-02-02 17:30:00",NULL,"2018-01-27 10:22:00","2018-01-28 07:12:00",Norristown,PA,19401,NULL
+3,crossfit-control-jacksonville-beach,crossfit,t,"2018-01-31 14:00:00",NULL,"2018-01-28 19:00:00","2018-01-28 20:15:00","Saint Petersburg",FL,33702,NULL
+55,third-ave-pilates,pilates,f,"2018-01-31 08:45:00","2018-01-31 08:46:00","2018-01-30 21:20:00","2018-01-30 21:21:00",Providence,RI,02904,NULL
+22,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-03 09:30:00","2018-02-03 09:27:00","2018-01-31 21:45:00","2018-01-31 21:56:00","Saint Petersburg",FL,33702,NULL
+6,hive-athletics,strength,f,"2018-02-03 12:00:00","2018-02-03 11:57:00","2018-02-01 16:03:00","2018-02-01 16:04:00",Macungie,PA,18062,NULL
+9,power-yoga,yoga,f,"2018-02-10 08:00:00","2018-02-10 07:54:00","2018-02-02 18:44:00","2018-02-02 18:45:00","Saint Petersburg",FL,33702,NULL
+5,true-grit-fitness,endurance,t,"2018-02-10 17:30:00",NULL,"2018-02-02 10:22:00","2018-02-03 07:12:00",Smithtown,NY,11787,NULL
+12,third-ave-pilates,pilates,f,"2018-02-04 10:30:00","2018-02-04 10:31:00","2018-02-02 18:31:00","2018-02-03 08:22:00",Providence,RI,02904,NULL
+32,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-08 13:30:00",NULL,"2018-02-02 13:30:00","2018-02-03 13:30:00","Saint Petersburg",FL,33702,NULL
+4,power-yoga,yoga,t,"2018-02-09 14:00:00",NULL,"2018-02-03 19:00:00","2018-02-03 20:15:00","Saint Petersburg",FL,33702,NULL
+36,power-yoga,yoga,f,"2018-02-05 07:30:00","2018-02-05 07:22:00","2018-02-03 15:48:00","2018-02-04 15:49:00","Saint Petersburg",FL,33702,NULL
+3,prana-yoga,yoga,f,"2018-02-13 08:45:00","2018-02-13 08:46:00","2018-02-05 21:20:00","2018-02-05 21:21:00",Norristown,PA,19401,NULL
+3,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-12 11:00:00",NULL,"2018-02-04 22:45:00","2018-02-05 23:06:00","Saint Petersburg",FL,33702,NULL
+5,hive-athletics,strength,f,"2018-02-12 12:00:00","2018-02-12 11:57:00","2018-02-06 16:03:00","2018-02-06 16:04:00",Macungie,PA,18062,NULL
+51,crossfit-control-jacksonville-beach,crossfit,t,"2018-02-09 14:00:00",NULL,"2018-02-05 19:00:00","2018-02-06 20:15:00","Saint Petersburg",FL,33702,NULL
+15,flushing-crossfit,crossfit,f,"2018-02-15 08:45:00","2018-02-15 08:46:00","2018-02-03 21:20:00","2018-02-07 21:21:00",Flushing,NY,11354,NULL
+6,hive-athletics,strength,f,"2018-02-09 09:30:00","2018-02-09 09:27:00","2018-02-06 16:04:00","2018-02-07 21:56:00",Macungie,PA,18062,NULL
+12,power-yoga,yoga,f,"2018-02-09 09:30:00","2018-02-09 09:27:00","2018-02-06 20:15:00","2018-02-07 21:56:00","Saint Petersburg",FL,33702,NULL
+9,flushing-crossfit,crossfit,f,"2018-02-12 11:00:00",NULL,"2018-02-05 22:45:00","2018-02-07 23:06:00",Flushing,NY,11354,NULL
+32,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-14 10:30:00","2018-02-14 10:31:00","2018-02-07 18:31:00","2018-02-08 08:22:00","Saint Petersburg",FL,33702,NULL
+18,crossfit-control-jacksonville-beach,crossfit,t,"2018-02-10 17:30:00",NULL,"2018-02-08 10:22:00","2018-02-09 07:12:00","Saint Petersburg",FL,33702,NULL
+27,prana-yoga,yoga,f,"2018-02-15 13:30:00",NULL,"2018-02-09 13:30:00","2018-02-09 13:30:00",Norristown,PA,19401,NULL
+4,hive-athletics,strength,f,"2018-02-14 08:00:00","2018-02-14 07:54:00","2018-02-07 18:44:00","2018-02-09 18:45:00",Macungie,PA,18062,NULL
+16,third-ave-pilates,pilates,f,"2018-02-15 07:30:00","2018-02-15 07:22:00","2018-02-10 15:48:00","2018-02-10 15:49:00",Providence,RI,02904,NULL
+12,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-15 14:00:00","2018-02-15 14:00:00","2018-02-10 19:00:00","2018-02-10 20:15:00","Saint Petersburg",FL,33702,NULL
+45,hive-athletics,strength,f,"2018-02-05 07:30:00","2018-02-05 07:22:00","2018-02-04 15:48:00","2018-02-11 15:49:00",Macungie,PA,18062,NULL
+5,true-grit-fitness,endurance,f,"2018-02-15 08:45:00","2018-02-15 08:46:00","2018-02-12 21:20:00","2018-02-12 21:21:00",Smithtown,NY,11787,NULL
+21,prana-yoga,yoga,f,"2018-02-16 09:30:00","2018-02-16 09:27:00","2018-02-12 21:21:00","2018-02-13 21:56:00",Norristown,PA,19401,NULL
+36,third-ave-pilates,pilates,f,"2018-02-17 07:30:00","2018-02-17 07:22:00","2018-02-14 15:48:00","2018-02-14 15:49:00",Providence,RI,02904,NULL
+17,hive-athletics,strength,f,"2018-02-16 11:00:00",NULL,"2018-02-14 22:45:00","2018-02-14 23:06:00",Macungie,PA,18062,NULL
+4,power-yoga,yoga,f,"2018-02-17 14:00:00","2018-02-17 14:00:00","2018-02-15 19:00:00","2018-02-16 20:15:00","Saint Petersburg",FL,33702,NULL
+15,hive-athletics,strength,f,"2018-02-18 08:45:00","2018-02-18 08:46:00","2018-02-16 21:20:00","2018-02-16 21:21:00",Macungie,PA,18062,NULL
+6,third-ave-pilates,pilates,f,"2018-02-19 09:30:00","2018-02-19 09:27:00","2018-02-16 21:21:00","2018-02-18 21:56:00",Providence,RI,02904,NULL
+25,hive-athletics,strength,f,"2018-02-20 08:45:00","2018-02-20 08:46:00","2018-02-19 21:20:00","2018-02-19 21:21:00",Macungie,PA,18062,NULL
+43,third-ave-pilates,pilates,f,"2018-02-21 09:30:00","2018-02-21 09:27:00","2018-02-19 21:21:00","2018-02-19 21:56:00",Providence,RI,02904,NULL
+12,true-grit-fitness,endurance,f,"2018-02-20 11:00:00",NULL,"2018-02-19 22:45:00","2018-02-19 23:06:00",Smithtown,NY,11787,NULL
+6,prana-yoga,yoga,f,"2018-02-21 14:00:00","2018-02-21 14:00:00","2018-02-19 19:00:00","2018-02-20 20:15:00",Norristown,PA,19401,NULL
+36,power-yoga,yoga,f,"2018-02-22 11:00:00",NULL,"2018-02-20 22:45:00","2018-02-20 23:06:00","Saint Petersburg",FL,33702,NULL
+4,true-grit-fitness,endurance,f,"2018-02-22 07:30:00","2018-02-22 07:22:00","2018-02-21 15:48:00","2018-02-21 15:49:00",Smithtown,NY,11787,NULL
+6,power-yoga,yoga,f,"2018-02-23 08:45:00","2018-02-23 08:46:00","2018-02-21 21:20:00","2018-02-21 21:21:00","Saint Petersburg",FL,33702,NULL
+15,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-23 14:00:00",NULL,"2018-02-21 19:00:00","2018-02-22 20:15:00","Saint Petersburg",FL,33702,NULL
+55,power-yoga,yoga,f,"2018-02-23 09:30:00","2018-02-23 09:27:00","2018-02-22 20:15:00","2018-02-22 21:56:00","Saint Petersburg",FL,33702,NULL
+3,flushing-crossfit,crossfit,f,"2018-02-23 11:00:00",NULL,"2018-02-22 22:45:00","2018-02-22 23:06:00",Flushing,NY,11354,NULL
+12,hive-athletics,strength,f,"2018-02-25 12:00:00","2018-02-25 11:57:00","2018-02-24 16:03:00","2018-02-24 16:04:00",Macungie,PA,18062,NULL
+5,hive-athletics,strength,f,"2018-02-27 08:00:00","2018-02-27 07:54:00","2018-02-24 18:44:00","2018-02-24 18:45:00",Macungie,PA,18062,NULL
+32,crossfit-control-jacksonville-beach,crossfit,t,"2018-02-26 17:30:00",NULL,"2018-02-24 10:22:00","2018-02-25 07:12:00","Saint Petersburg",FL,33702,NULL
+9,crossfit-control-jacksonville-beach,crossfit,f,"2018-02-25 10:30:00","2018-02-25 10:31:00","2018-02-24 18:31:00","2018-02-25 08:22:00","Saint Petersburg",FL,33702,NULL
+4,prana-yoga,yoga,f,"2018-02-26 12:00:00","2018-02-26 11:57:00","2018-02-25 16:03:00","2018-02-25 16:04:00",Norristown,PA,19401,NULL
+1,prana-yoga,yoga,f,"2018-02-28 10:30:00","2018-02-28 10:31:00","2018-02-25 18:31:00","2018-02-26 08:22:00",Norristown,PA,19401,NULL
+7,hive-athletics,strength,f,"2018-02-27 08:00:00","2018-02-27 07:54:00","2018-02-26 18:44:00","2018-02-26 18:45:00",Macungie,PA,18062,NULL
+17,prana-yoga,yoga,t,"2018-03-02 17:30:00",NULL,"2018-02-27 10:22:00","2018-02-28 07:12:00",Norristown,PA,19401,NULL
+3,crossfit-control-jacksonville-beach,crossfit,t,"2018-03-03 09:30:00",NULL,"2018-02-28 19:00:00","2018-02-28 20:15:00","Saint Petersburg",FL,33702,NULL
+22,crossfit-control-jacksonville-beach,crossfit,f,"2018-03-03 09:30:00","2018-03-03 09:27:00","2018-02-28 21:45:00","2018-02-28 21:56:00","Saint Petersburg",FL,33702,NULL
+21,prana-yoga,yoga,f,"2018-01-05 07:30:00","2018-01-05 07:22:00","2018-01-03 15:48:00","2018-01-04 23:06:00",Norristown,PA,19401,NULL
+3,crossfit-control-jacksonville-beach,crossfit,f,"2018-01-15 07:30:00","2018-01-15 07:22:00","2018-01-10 15:48:00","2018-01-11 20:15:00","Saint Petersburg",FL,33702,NULL
+9,hive-athletics,strength,f,"2018-01-05 07:30:00","2018-01-05 07:22:00","2018-01-04 15:48:00","2018-01-05 21:21:00",Macungie,PA,18062,NULL
+5,third-ave-pilates,pilates,f,"2018-01-17 07:30:00","2018-01-17 07:22:00","2018-01-14 15:48:00","2018-01-18 21:56:00",Providence,RI,02904,NULL
+4,true-grit-fitness,endurance,f,"2018-01-22 07:30:00","2018-01-22 07:22:00","2018-01-21 15:48:00","2018-01-22 23:06:00",Smithtown,NY,11787,NULL
+55,third-ave-pilates,pilates,f,"2018-02-28 08:45:00","2018-02-28 08:46:00","2018-02-21 15:48:00","2018-02-23 20:15:00",Providence,RI,02904,NULL
+29,NULL,pilates,f,"2018-01-19 09:30:00","2018-01-19 09:27:00",NULL,NULL,Providence,RI,02904,NULL
+6,NULL,crossfit,f,"2018-01-23 11:00:00",NULL,NULL,NULL,Flushing,NY,11354,NULL
+7,NULL,strength,f,"2018-01-27 08:00:00","2018-01-27 07:54:00",NULL,NULL,Macungie,PA,18062,NULL
+1,barre3-spring-park,barre,f,"2018-01-03 12:00:00","2018-01-03 11:57:00",NULL,NULL,NULL,NULL,NULL,1
+4,xtreme-cycling,spin,f,"2018-01-04 10:30:00","2018-01-04 10:31:00",NULL,NULL,NULL,NULL,NULL,3
+3,steady-sweat,endurance,f,"2018-01-05 08:00:00","2018-01-05 07:54:00",NULL,NULL,NULL,NULL,NULL,2
+9,the-pilates-center,pilates,f,"2018-01-05 07:30:00","2018-01-05 07:22:00",NULL,NULL,NULL,NULL,NULL,2
+7,yoga-pose,yoga,f,"2018-01-05 07:30:00","2018-01-05 07:22:00",NULL,NULL,NULL,NULL,NULL,3
+5,orlando-yoga,yoga,t,"2018-01-08 13:30:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+4,soho-cycling,spin,f,"2018-01-08 13:30:00","2018-01-09 09:27:00",NULL,NULL,NULL,NULL,NULL,2
+8,the-pilates-center,pilates,t,"2018-01-09 14:00:00","2018-01-09 14:00:00",NULL,NULL,NULL,NULL,NULL,3
+6,dance-trance-fitness,dance,f,"2018-01-09 14:00:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+27,yoga-pose,yoga,t,"2018-01-09 14:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+55,orlando-yoga,yoga,f,"2018-01-10 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+14,soho-cycling,spin,f,"2018-01-10 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+19,the-pilates-center,pilates,t,"2018-01-12 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+27,yoga-pose,yoga,t,"2018-01-12 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+5,orlando-yoga,yoga,f,"2018-01-12 12:00:00","2018-01-12 11:57:00",NULL,NULL,NULL,NULL,NULL,4
+4,soho-cycling,spin,f,"2018-01-13 08:45:00","2018-01-13 08:46:00",NULL,NULL,NULL,NULL,NULL,2
+18,the-pilates-center,pilates,f,"2018-01-14 10:30:00","2018-01-14 10:31:00",NULL,NULL,NULL,NULL,NULL,3
+21,barre3-spring-park,barre,f,"2018-01-14 08:00:00","2018-01-14 07:54:00",NULL,NULL,NULL,NULL,NULL,1
+14,xtreme-cycling,spin,f,"2018-01-15 08:45:00","2018-01-15 08:46:00",NULL,NULL,NULL,NULL,NULL,3
+3,steady-sweat,endurance,t,"2018-01-15 13:30:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+19,the-pilates-center,pilates,f,"2018-01-15 07:30:00","2018-01-15 07:22:00",NULL,NULL,NULL,NULL,NULL,2
+7,yoga-pose,yoga,f,"2018-01-15 14:00:00","2018-01-15 14:00:00",NULL,NULL,NULL,NULL,NULL,3
+55,orlando-yoga,yoga,f,"2018-01-15 08:45:00","2018-01-15 08:46:00",NULL,NULL,NULL,NULL,NULL,4
+7,soho-cycling,spin,f,"2018-01-16 09:30:00","2018-01-16 09:27:00",NULL,NULL,NULL,NULL,NULL,2
+5,orlando-yoga,yoga,t,"2018-01-16 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+4,soho-cycling,spin,f,"2018-01-17 07:30:00","2018-01-17 07:22:00",NULL,NULL,NULL,NULL,NULL,2
+18,the-pilates-center,pilates,f,"2018-01-17 14:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+6,dance-trance-fitness,dance,f,"2018-01-18 08:45:00","2018-01-18 08:46:00",NULL,NULL,NULL,NULL,NULL,2
+7,yoga-pose,yoga,f,"2018-01-19 09:30:00","2018-01-19 09:27:00",NULL,NULL,NULL,NULL,NULL,3
+5,orlando-yoga,yoga,f,"2018-01-20 08:45:00","2018-01-20 08:46:00",NULL,NULL,NULL,NULL,NULL,4
+4,soho-cycling,spin,t,"2018-01-20 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+9,the-pilates-center,pilates,f,"2018-01-21 14:00:00","2018-01-21 14:00:00",NULL,NULL,NULL,NULL,NULL,2
+27,yoga-pose,yoga,f,"2018-01-21 09:30:00","2018-01-21 09:27:00",NULL,NULL,NULL,NULL,NULL,3
+95,orlando-yoga,yoga,t,"2018-01-22 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+7,yoga-pose,yoga,t,"2018-01-22 07:30:00","2018-01-22 07:22:00",NULL,NULL,NULL,NULL,NULL,3
+3,orlando-yoga,yoga,f,"2018-01-22 10:30:00","2018-01-22 10:28:00",NULL,NULL,NULL,NULL,NULL,4
+14,soho-cycling,spin,f,"2018-01-23 08:45:00","2018-01-23 08:46:00",NULL,NULL,NULL,NULL,NULL,2
+28,the-pilates-center,pilates,t,"2018-01-23 10:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+13,barre3-spring-park,barre,t,"2018-01-24 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,1
+38,xtreme-cycling,spin,f,"2018-01-25 12:00:00","2018-01-25 11:57:00",NULL,NULL,NULL,NULL,NULL,3
+13,steady-sweat,endurance,f,"2018-01-25 10:30:00","2018-01-25 10:31:00",NULL,NULL,NULL,NULL,NULL,2
+29,the-pilates-center,pilates,t,"2018-01-26 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+37,yoga-pose,yoga,f,"2018-01-26 12:00:00","2018-01-26 11:57:00",NULL,NULL,NULL,NULL,NULL,3
+25,orlando-yoga,yoga,f,"2018-01-27 08:00:00","2018-01-27 07:54:00",NULL,NULL,NULL,NULL,NULL,4
+37," orlando-yoga",yoga,f,"2018-01-27 09:00:00","2018-01-27 08:59:00",NULL,NULL,NULL,NULL,NULL,4
+3,orlando-yoga,yoga,f,"2018-01-29 10:30:00","2018-01-29 10:31:00",NULL,NULL,NULL,NULL,NULL,4
+7,yoga-pose,yoga,t,"2018-01-31 14:00:00","2018-01-31 14:00:00",NULL,NULL,NULL,NULL,NULL,3
+5,xtreme-cycling,spin,f,"2018-01-31 08:45:00","2018-01-31 08:46:00",NULL,NULL,NULL,NULL,NULL,3
+29,steady-sweat,endurance,t,"2018-01-31 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+13,the-pilates-center,pilates,f,"2018-02-03 09:30:00","2018-02-03 09:27:00",NULL,NULL,NULL,NULL,NULL,2
+5,the-pilates-center,pilates,f,"2018-02-03 12:00:00","2018-02-03 11:57:00",NULL,NULL,NULL,NULL,NULL,1
+4,yoga-pose,yoga,f,"2018-02-04 10:30:00","2018-02-04 10:31:00",NULL,NULL,NULL,NULL,NULL,3
+8,orlando-yoga,yoga,f,"2018-01-05 08:00:00","2018-01-05 07:54:00",NULL,NULL,NULL,NULL,NULL,2
+6," orlando-yoga",yoga,f,"2018-01-05 07:30:00","2018-01-05 07:22:00",NULL,NULL,NULL,NULL,NULL,2
+27,orlando-yoga,yoga,f,"2018-01-05 07:30:00","2018-01-05 07:22:00",NULL,NULL,NULL,NULL,NULL,3
+55,yoga-pose,yoga,t,"2018-01-08 13:30:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+14,xtreme-cycling,spin,f,"2018-01-09 09:30:00","2018-01-09 09:27:00",NULL,NULL,NULL,NULL,NULL,2
+19,steady-sweat,endurance,t,"2018-01-09 14:00:00","2018-01-09 14:00:00",NULL,NULL,NULL,NULL,NULL,3
+27,dance-trance-fitness,dance,f,"2018-01-09 09:27:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+5,yoga-pose,yoga,t,"2018-01-09 14:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+4,orlando-yoga,yoga,f,"2018-01-10 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+18,orlando-yoga,yoga,f,"2018-01-10 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+21,yoga-pose,yoga,t,"2018-01-12 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+1,xtreme-cycling,spin,t,"2018-01-12 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+5,steady-sweat,endurance,f,"2018-01-12 12:00:00","2018-01-12 11:57:00",NULL,NULL,NULL,NULL,NULL,3
+4,dance-trance-fitness,dance,f,"2018-01-13 08:45:00","2018-01-13 08:46:00",NULL,NULL,NULL,NULL,NULL,2
+6,yoga-pose,yoga,f,"2018-01-14 10:30:00","2018-01-14 10:31:00",NULL,NULL,NULL,NULL,NULL,3
+13,orlando-yoga,yoga,f,"2018-01-15 08:45:00","2018-01-15 08:46:00",NULL,NULL,NULL,NULL,NULL,4
+38,soho-cycling,spin,f,"2018-01-16 09:30:00","2018-01-16 09:27:00",NULL,NULL,NULL,NULL,NULL,2
+13,orlando-yoga,yoga,t,"2018-01-16 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+29,soho-cycling,spin,f,"2018-01-17 07:30:00","2018-01-17 07:22:00",NULL,NULL,NULL,NULL,NULL,2
+3,yoga-pose,yoga,f,"2018-01-17 14:00:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+19,xtreme-cycling,spin,f,"2018-01-18 08:45:00","2018-01-18 08:46:00",NULL,NULL,NULL,NULL,NULL,2
+3,steady-sweat,endurance,f,"2018-01-19 09:30:00","2018-01-19 09:27:00",NULL,NULL,NULL,NULL,NULL,3
+14,dance-trance-fitness,dance,f,"2018-01-20 08:45:00","2018-01-20 08:46:00",NULL,NULL,NULL,NULL,NULL,2
+28,yoga-pose,yoga,t,"2018-01-20 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+9,orlando-yoga,yoga,f,"2018-01-21 14:00:00","2018-01-21 14:00:00",NULL,NULL,NULL,NULL,NULL,4
+27,steady-sweat,endurance,f,"2018-01-21 10:30:00","2018-01-21 09:27:00",NULL,NULL,NULL,NULL,NULL,3
+95,dance-trance-fitness,dance,t,"2018-01-22 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+14,yoga-pose,yoga,f,"2018-01-23 08:45:00","2018-01-23 08:46:00",NULL,NULL,NULL,NULL,NULL,3
+28,orlando-yoga,yoga,t,"2018-01-23 10:00:00",NULL,NULL,NULL,NULL,NULL,NULL,4
+13,yoga-pose,yoga,t,"2018-01-24 11:00:00",NULL,NULL,NULL,NULL,NULL,NULL,3
+38,orlando-yoga,yoga,f,"2018-01-25 12:00:00","2018-01-25 11:57:00",NULL,NULL,NULL,NULL,NULL,4
+13,soho-cycling,spin,f,"2018-01-25 10:30:00","2018-01-25 10:31:00",NULL,NULL,NULL,NULL,NULL,2
+3,yoga-pose,yoga,f,"2018-01-26 12:00:00","2018-01-26 11:57:00",NULL,NULL,NULL,NULL,NULL,3
+19,dance-trance-fitness,dance,f,"2018-01-27 08:00:00","2018-01-27 07:54:00",NULL,NULL,NULL,NULL,NULL,4
+7,yoga-pose,yoga,f,"2018-01-27 09:00:00","2018-01-27 08:59:00",NULL,NULL,NULL,NULL,NULL,4
+55,barre3-spring-park,barre,f,"2018-01-29 10:30:00","2018-01-29 10:31:00",NULL,NULL,NULL,NULL,NULL,4
+7,xtreme-cycling,spin,t,"2018-01-31 14:00:00","2018-01-31 14:00:00",NULL,NULL,NULL,NULL,NULL,3
+5,steady-sweat,endurance,f,"2018-01-31 08:45:00","2018-01-31 08:46:00",NULL,NULL,NULL,NULL,NULL,3
+4,the-pilates-center,pilates,t,"2018-01-31 17:30:00",NULL,NULL,NULL,NULL,NULL,NULL,2
+18,xtreme-cycling,pilates,f,"2018-02-03 09:30:00","2018-02-03 09:27:00",NULL,NULL,NULL,NULL,NULL,2
