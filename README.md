@@ -60,11 +60,11 @@ FROM
 		peerfit.mindbody_reservations AS mbr)
 	UNION
 	(SELECT
-		member_id, studio_key, class_tag, canceled, reserved_for AS class_time_at, signed_in_at AS checked_in_at
+		member_id, LTRIM(studio_key), class_tag, canceled, reserved_for AS class_time_at, signed_in_at AS checked_in_at
 	FROM
 		peerfit.clubready_reservations AS crr)) AS ct
 WHERE
-	canceled = 'f'
+	canceled = 'f' OR (canceled = 't' AND checked_in_at IS NOT NULL)
 GROUP BY
 	studio_key
 ORDER BY
@@ -105,7 +105,7 @@ SELECT
 	COUNT(*) AS total_members
 FROM
 	(SELECT 
-		member_id, SUM(CASE WHEN canceled = 't' THEN 1 ELSE 0 END) AS canceled_count, COUNT(checked_in_at) AS completed_reservation_count
+		member_id, SUM(CASE WHEN canceled = 't' AND checked_in_at IS NULL THEN 1 ELSE 0 END) AS canceled_count, COUNT(checked_in_at) AS completed_reservation_count
 	FROM
 		((SELECT
 			member_id, studio_key, class_tag, CASE WHEN canceled_at IS NULL THEN 'f' ELSE 't' END AS canceled, class_time_at, checked_in_at
@@ -121,7 +121,7 @@ FROM
 	GROUP BY
 		member_id) AS final
 WHERE
-	canceled_count > 0 AND completed_reservation_count > 0;
+	canceled_count < 2 AND completed_reservation_count > 0;
 ```
 <br/><br/>
 **5.** At what time of day do most users book classes? Attend classes? (Morning = 7-11 AM, Afternoon = 12-4 PM, Evening = 5-10 PM)
